@@ -5,11 +5,11 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e_store", "e_store\e_store.csproj", "{2EE6C675-9817-4558-B12C-F25046AC9B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e_store.DataAccess", "e_store.DataAccess\e_store.DataAccess.csproj", "{79E88645-BDE3-40CC-8B50-25D235AFCFE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e_store.DataAccess", "e_store.DataAccess\e_store.DataAccess.csproj", "{79E88645-BDE3-40CC-8B50-25D235AFCFE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e_store.Models", "e_store.Models\e_store.Models.csproj", "{C3FCD627-4AFC-4532-BADE-8CAB9DC5AF23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e_store.Models", "e_store.Models\e_store.Models.csproj", "{C3FCD627-4AFC-4532-BADE-8CAB9DC5AF23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e_store.Utilities", "e_store.Utilities\e_store.Utilities.csproj", "{9B575796-CD9F-4AF8-95EF-BA1233B730AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e_store.Utilities", "e_store.Utilities\e_store.Utilities.csproj", "{9B575796-CD9F-4AF8-95EF-BA1233B730AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
